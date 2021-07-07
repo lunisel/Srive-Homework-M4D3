@@ -1,0 +1,18 @@
+
+#root {
+    height:100vh
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    padding: 3em;
+    bottom: 0px;
+}
+
+.book-cover {
+    padding: 15px;
+    width: 340px;
+    height: 500px;
+    object-fit: cover;
+}
